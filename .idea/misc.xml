@@ -3,5 +3,9 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (geopy)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (Covid19Analysis) (2)" project-jdk-type="Python SDK" />
+>>>>>>> 8fe5a09cafa0578a4572cf097ef90f28a5a891a0
 </project>
